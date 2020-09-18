@@ -1,0 +1,8 @@
+﻿# Park a car beside the park ! !
+1.Here we are understanding the difference between the usage of types and tokens 
+2.And we are creating an menu means Corpuses with the help of selection and option tags
+3.Three Corpuses are creating :corpus1,corpus2,corpus3 and after that we have to go give the 
+values for token and type if it exists means correct then we have to enter number of root
+4.After this we have to check the answer and here we also creating the submit button 
+5.When the answer is correct then the green color will appear at the bottom 
+6.And when the answer is wrong then the red color will appear at the bottom 
